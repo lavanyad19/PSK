@@ -1,6 +1,7 @@
 ## Name : Lavanya D
 ## Reg.no : 212224060133
-# PSK & QPSK
+# Exp No: 5
+# Exp name: Simulation of Phase Shift Keying and Quadrature Phase Shift Keying
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
